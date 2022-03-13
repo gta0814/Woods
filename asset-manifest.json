@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Woods/static/css/main.db9c5281.css",
-    "main.js": "/Woods/static/js/main.bb35e7ad.js",
+    "main.js": "/Woods/static/js/main.d945b216.js",
     "static/media/Wimg1.jpg": "/Woods/static/media/Wimg1.71a21dc71de2f84e98f1.jpg",
     "index.html": "/Woods/index.html",
     "main.db9c5281.css.map": "/Woods/static/css/main.db9c5281.css.map",
-    "main.bb35e7ad.js.map": "/Woods/static/js/main.bb35e7ad.js.map"
+    "main.d945b216.js.map": "/Woods/static/js/main.d945b216.js.map"
   },
   "entrypoints": [
     "static/css/main.db9c5281.css",
-    "static/js/main.bb35e7ad.js"
+    "static/js/main.d945b216.js"
   ]
 }
