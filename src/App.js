@@ -8,11 +8,11 @@ import Products from './components/pages/Products';
 import SignUp from './components/pages/SignUp';
 
 function App() {
-  console.log("1234");
   return (
     <>
       <Router>
         <Navbar />
+        <Home />
         <Switch>
           <Route path='/' exact component={Home} />
           {/* <Route path='/services' component={Services} /> */}
