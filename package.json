@@ -1,7 +1,7 @@
 {
-  "homepage": "https://gta0814.github.io/Woods",
-  "name": "wood",
-  "version": "0.1.0",
+  "homepage": "https://gta0814.github.io/menhu",
+  "name": "menhu",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",

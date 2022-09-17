@@ -34,8 +34,8 @@ function Footer() {
           </div>
           <div class='footer-link-items'>
             <h2>Contact Us</h2>
-            <Link to='/'>1-780-243-4299</Link>
-            <Link to='/'>Email: royalwoodsengineering@gmail.com</Link>
+            <Link to='/'>1-780-964-8915</Link>
+            <Link to='/'>Email: @gmail.com</Link>
           </div>
         </div>
         {/* <div className='footer-link-wrapper'>
@@ -57,7 +57,7 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              ROYALWOODS
+              EdmontonWechat
               <i class='fas fa-hammer fa-sm' />
             </Link>
           </div>
@@ -65,7 +65,7 @@ function Footer() {
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
-              to='//www.facebook.com/RoyalWoodsEngineering'
+              to='/'
               target='_blank'
               aria-label='Facebook'
             >

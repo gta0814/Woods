@@ -6,40 +6,40 @@ function Cards() {
   console.log('asdf');
   return (
     <div className='cards'>
-      <h1>Check out the works!</h1>
+      {/* <h1>Check out the works!</h1> */}
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src= {process.env.PUBLIC_URL + '/images/img-9.jpg'}
-              text='Recently got a place and didn’t know what to do with my 100 pairs of shoes. Right from the start my experience with Royal Woods Engineering Inc. was great.'
-              label='LivingRoom'
+              src= {process.env.PUBLIC_URL + '/images/QR.jpg'}
+              text='CarPool群'
+              label='500人'
               path='/services'
             />
             <CardItem
-              src= {process.env.PUBLIC_URL + '/images/img-2.jpg'}
-              text='We decided to do a little upgrade to our pantry. After & Before pictures by @royalwoodsinc. '
-              label='Luxury'
+              src= {process.env.PUBLIC_URL + '/images/QR.jpg'}
+              text='大群'
+              label='458人'
               path='/services'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src= {process.env.PUBLIC_URL + '/images/img-3.jpg'}
-              text='Kenneth was a pleasure to work with and was extremely professional. He listened to my needs for the project, and was very honest and reasonable with his estimate. He worked efficiently and was trustworthy in my home. Kenneth paid great attention to detail and finished the job properly.  I would recommend him for any project and am looking forward to hiring him for more work in my house!'
-              label='Kitchen'
+              src= {process.env.PUBLIC_URL + '/images/QR.jpg'}
+              text='小群'
+              label='256人'
               path='/services'
             />
             <CardItem
-              src= {process.env.PUBLIC_URL + '/images/img-4.jpg'}
-              text='Kenneth is so amazing at what he does! He built us a custom closet which was always my dream and I couldn’t be more happy and thankful with the results!'
-              label='BedRoom'
+              src= {process.env.PUBLIC_URL + '/images/QR.jpg'}
+              text='啥群'
+              label='187人'
               path='/products'
             />
             <CardItem
-              src= {process.env.PUBLIC_URL + '/images/img-8.jpg'}
-              text=''
-              label='Dining'
+              src= {process.env.PUBLIC_URL + '/images/QR.jpg'}
+              text='Holdon买车'
+              label='199人'
               path='/sign-up'
             />
           </ul>
