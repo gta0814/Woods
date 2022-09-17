@@ -1,14 +1,13 @@
 {
-  "files": {
-    "main.css": "/Woods/static/css/main.db9c5281.css",
-    "main.js": "/Woods/static/js/main.6d8ee2cb.js",
-    "static/media/Wimg1.jpg": "/Woods/static/media/Wimg1.71a21dc71de2f84e98f1.jpg",
-    "index.html": "/Woods/index.html",
-    "main.db9c5281.css.map": "/Woods/static/css/main.db9c5281.css.map",
-    "main.6d8ee2cb.js.map": "/Woods/static/js/main.6d8ee2cb.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.db9c5281.css",
-    "static/js/main.6d8ee2cb.js"
-  ]
+  "main.css": "/Woods/static/css/main.7eb8e552.chunk.css",
+  "main.js": "/Woods/static/js/main.2715d37e.chunk.js",
+  "main.js.map": "/Woods/static/js/main.2715d37e.chunk.js.map",
+  "static/js/1.5b4e4c41.chunk.js": "/Woods/static/js/1.5b4e4c41.chunk.js",
+  "static/js/1.5b4e4c41.chunk.js.map": "/Woods/static/js/1.5b4e4c41.chunk.js.map",
+  "runtime~main.js": "/Woods/static/js/runtime~main.e1574855.js",
+  "runtime~main.js.map": "/Woods/static/js/runtime~main.e1574855.js.map",
+  "static/css/main.7eb8e552.chunk.css.map": "/Woods/static/css/main.7eb8e552.chunk.css.map",
+  "index.html": "/Woods/index.html",
+  "precache-manifest.d04b8f5e4f776cca8ce0cccd1516caf9.js": "/Woods/precache-manifest.d04b8f5e4f776cca8ce0cccd1516caf9.js",
+  "service-worker.js": "/Woods/service-worker.js"
 }
