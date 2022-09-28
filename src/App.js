@@ -12,7 +12,7 @@ function App() {
     <>
       <Router>
         <Navbar />
-        <Home />
+        {/* <Home /> 如果下边不好使用这个*/}
         <Switch>
           <Route path='/' exact component={Home} />
           {/* <Route path='/services' component={Services} /> */}
